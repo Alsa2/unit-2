@@ -15,5 +15,7 @@ fontsize: 12pt
 Hello I tried to add the task to a R Markedown file to not have to print ugly jpgs, if it dosent work click here:
 [please click here](http://Task1HTML.html)
 
+And if it still don't work open the allocated pdf
+
 
 !![demographics map]('Task1HTML.html')
