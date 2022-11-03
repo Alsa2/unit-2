@@ -1,5 +1,8 @@
-# Thruth table generator
+# Quizz 20
 
+### Question 1
+
+```python
 def get_truth():
     truth = []
     print("| A | B | C |")
@@ -7,3 +10,6 @@ def get_truth():
         truth.append([i//4, (i//2)%2, i%2])
         print("|", truth[i][0], "|", truth[i][1], "|", truth[i][2], "|")
 get_truth()
+```
+
+Proof:

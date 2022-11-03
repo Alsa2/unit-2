@@ -1,0 +1,19 @@
+---
+title: 'Task 1'
+author: "Alex"
+date: "Na"
+output:
+  html_document:
+    number_sections: no
+    toc: yes
+    toc_depth: 2
+fontsize: 12pt
+---
+
+# Introduction
+
+Hello I tried to add the task to a R Markedown file to not have to print ugly jpgs, if it dosent work click here:
+[please click here](http://Task1HTML.html)
+
+
+!![demographics map]('Task1HTML.html')
