@@ -17,3 +17,7 @@ out = averageLenght(world)
 print(out)
 
 ```
+### Proof
+![](../Images/quizz17-proof.png)
+
+**Fig. 1** Proof
