@@ -42,6 +42,9 @@ plt.subplot(1, 3, 3)
 plt.plot(samples_smooth, samples_h, label='50% Point Smoothed Values')
 plt.show()
 ```
+![](../Images/quizz30-proof.png)
+
+**Fig. 1** Proof
 
 ## Part 2
 
